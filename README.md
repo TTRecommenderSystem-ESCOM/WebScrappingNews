@@ -1,8 +1,8 @@
 # WebScrappingNews
 
 
-##Se requiere tener instalada las librerias:
--BeutifulSoup
--Request
--Pandas
--Numpy
+## Installation of necessary libraries for run this code
+- BeutifulSoup
+- Request
+- Pandas
+- Numpy
